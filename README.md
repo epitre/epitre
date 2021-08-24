@@ -16,9 +16,15 @@ Concrétement, mes principales compétences sont sur :
 - Conception de PoC et MVP
 - Audit technique
 
-## Rôle dans l'équipe
+## Rôles dans l'équipe
 
-Que ce soit en tant que développeur PHP/Symfony, lead dev, CTO ou Product Owner, je peux vous accompagner
+Que ce soit en tant que :
+- développeur PHP/Symfony pour réaliser votre projet
+- lead dev pour guider l'équipe
+- CTO pour manager l'équipe
+- Product Owner pour affiner votre vision
+
+_Je peux vous accompagner_
 
 ## Mes Activités
 
