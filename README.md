@@ -1,9 +1,8 @@
-### Hello 👋, moi c'est Carlos 👨‍💻
+### Hello 👋 moi c'est Carlos 👨‍💻
 
-Je suis ingénieur en informatique, spécialisé dans le développement d'applications web sur-mesure.  
+![](img/profil.jpg)
 
-Diplomé depuis 2006, je suis monté en compétence sur tous les aspects de développement et maintenance d'une application web (Management d'équipe, Management de projet, SaaS, Api, Mise en place de moteur de recherche, Workflow, interconnexion avec des tiers, envoie d'email, etc...).  
-En 2018, je deviens indépendant en créant la société [www.shauri.fr](www.shauri.fr).
+Je suis ingénieur en informatique, spécialisé dans le développement d'applications web sur-mesure avec PHP/Symfony.
 
 ## Mes compétences
 
@@ -18,13 +17,11 @@ Concrétement, mes principales compétences sont sur :
 
 ## Rôles dans l'équipe
 
-Que ce soit en tant que :
-- développeur PHP/Symfony pour réaliser votre projet
-- lead dev pour guider l'équipe
-- CTO pour manager l'équipe
-- Product Owner pour affiner votre vision
-
-_Je peux vous accompagner_
+Selon les missions, j'ai le rôle de :
+- développeur PHP/Symfony
+- lead dev
+- CTO
+- Product Owner
 
 ## Mes Activités
 
@@ -50,11 +47,27 @@ Techniquement, je suis compétent sur :
 
 ## En savoir plus
 
-Vous trouverez plus de détails sur mon expérience dans mon profil [LinkedIn](https://www.linkedin.com/in/carpda/).
+<a href="https://www.linkedin.com/in/carpda/">
+  <img alt="LinkedIn" align="left" width="30px" style="margin-right:15px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+</a>
+<a href="https://gitlab.com/cpereira">
+  <img alt="Gitlab" align="left" width="30px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
+</a>
+<a href="https://github.com/epitre">
+  <img alt="GitHub" align="left" width="30px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</a>
+<a href="https://connect.symfony.com/profile/epitre">
+  <img alt="symfony connect" align="left" width="30px" style="margin-right:15px" src="https://symfony.com/logos/symfony_black_03.svg" />
+</a>
+
+<br>
 
 ## Me contacter
 
 N'hésitez pas à m'envoyer un email à [carlos@shauri.fr](mailto:carlos@shauri.fr)
+
+
+---
 
 ![](https://visitor-badge.glitch.me/badge?page_id=carlos.github)
 
