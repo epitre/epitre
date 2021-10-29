@@ -1,6 +1,6 @@
-### Hello 👋 moi c'est Carlos 👨‍💻
-
 ![](img/profil.jpg)
+
+# Hello 👋 moi c'est Carlos 👨‍💻
 
 Je suis ingénieur en informatique, spécialisé dans le développement d'applications web sur-mesure avec PHP/Symfony.
 
@@ -11,17 +11,17 @@ Concrétement, mes principales compétences sont sur :
 - Management et recrutement d'équipe
 - Mise en place de l'agilité
 - Développement d'API Rest
-- Développement d'applications avec PHP/Symfony/APi Platform
+- Développement d'applications avec PHP/Symfony/API Platform
 - Conception de PoC et MVP
 - Audit technique
 
 ## Rôles dans l'équipe
 
 Selon les missions, j'ai le rôle de :
-- développeur PHP/Symfony
-- lead dev
-- CTO
 - Product Owner
+- CTO
+- Lead Dev
+- Développeur PHP/Symfony
 
 ## Mes Activités
 
